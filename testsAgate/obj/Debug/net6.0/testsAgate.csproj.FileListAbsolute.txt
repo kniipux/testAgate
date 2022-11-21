@@ -1,0 +1,15 @@
+C:\Users\kniip\source\repos\testsAgate\testsAgate\bin\Debug\net6.0\testsAgate.exe
+C:\Users\kniip\source\repos\testsAgate\testsAgate\bin\Debug\net6.0\testsAgate.deps.json
+C:\Users\kniip\source\repos\testsAgate\testsAgate\bin\Debug\net6.0\testsAgate.runtimeconfig.json
+C:\Users\kniip\source\repos\testsAgate\testsAgate\bin\Debug\net6.0\testsAgate.dll
+C:\Users\kniip\source\repos\testsAgate\testsAgate\bin\Debug\net6.0\testsAgate.pdb
+C:\Users\kniip\source\repos\testsAgate\testsAgate\obj\Debug\net6.0\testsAgate.csproj.AssemblyReference.cache
+C:\Users\kniip\source\repos\testsAgate\testsAgate\obj\Debug\net6.0\testsAgate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kniip\source\repos\testsAgate\testsAgate\obj\Debug\net6.0\testsAgate.AssemblyInfoInputs.cache
+C:\Users\kniip\source\repos\testsAgate\testsAgate\obj\Debug\net6.0\testsAgate.AssemblyInfo.cs
+C:\Users\kniip\source\repos\testsAgate\testsAgate\obj\Debug\net6.0\testsAgate.csproj.CoreCompileInputs.cache
+C:\Users\kniip\source\repos\testsAgate\testsAgate\obj\Debug\net6.0\testsAgate.dll
+C:\Users\kniip\source\repos\testsAgate\testsAgate\obj\Debug\net6.0\refint\testsAgate.dll
+C:\Users\kniip\source\repos\testsAgate\testsAgate\obj\Debug\net6.0\testsAgate.pdb
+C:\Users\kniip\source\repos\testsAgate\testsAgate\obj\Debug\net6.0\testsAgate.genruntimeconfig.cache
+C:\Users\kniip\source\repos\testsAgate\testsAgate\obj\Debug\net6.0\ref\testsAgate.dll
